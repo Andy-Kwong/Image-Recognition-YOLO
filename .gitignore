@@ -1,0 +1,6 @@
+/darkflow/bin/
+/darkflow/sample_img/out/
+/darkflow/ckpt/
+/data_labelled/
+/labelImg/
+/PQ_images/
